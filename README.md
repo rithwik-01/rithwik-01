@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 I'm currently working on:
-Creating AI-powered vision systems that can interpret the world in real time while reinventing the San Jose 311 experience so residents get faster, smarter, and more reliable city services.
+Creating AI-powered systems that can interpret the world in real time while reinventing the San Jose 311 experience so residents get faster, smarter, and more reliable city services.
 
 
 ## 🌐 Socials:
